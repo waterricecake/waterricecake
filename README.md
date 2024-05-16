@@ -1,6 +1,6 @@
 ### KIM DONGYUEN 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/waterricecake%2Fgjbae1212%2Fhit-counter)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fruturum)](https://solved.ac/fruturum/)
 
